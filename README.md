@@ -1,3 +1,3 @@
-# Přihláška na Diecézko
+# Zpětná vazba k Diecézku
 
-Webová stránka s embednutou přihláškou na královehradecké diecézko 2023. Více infromací na [diecezko.cz](https://diecezko.cz/).
+Webová stránka s embednutým formulářem pro zpětnou vazbu na královehradeckém diecézko 202č. Více infromací na [diecezko.cz](https://diecezko.cz/).

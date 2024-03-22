@@ -1,6 +1,6 @@
 {
-   "name": "Přihláška na Diecézko",
-   "short_name": "prihlaska.diecezko.cz",
+   "name": "Zpětná vabza k Diecézko",
+   "short_name": "feedback.diecezko.cz",
    "icons": [
       {
          "src": "/android-chrome-192x192.png",
